@@ -1,0 +1,1 @@
+{"name":"Local: gcd_loop","url":"d:\\TIF+\\maths\\gcd_loop.cpp","tests":[{"id":1736223785953,"input":"20 28","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\TIF+\\maths\\gcd_loop.cpp","group":"local","local":true}

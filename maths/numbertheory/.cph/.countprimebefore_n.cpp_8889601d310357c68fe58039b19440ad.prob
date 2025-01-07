@@ -1,0 +1,1 @@
+{"name":"Local: countprimebefore_n","url":"d:\\TIF+\\maths\\numbertheory\\countprimebefore_n.cpp","tests":[{"id":1736261954029,"input":"13","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\TIF+\\maths\\numbertheory\\countprimebefore_n.cpp","group":"local","local":true}

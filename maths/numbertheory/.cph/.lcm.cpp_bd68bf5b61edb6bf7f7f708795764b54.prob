@@ -1,0 +1,1 @@
+{"name":"Local: lcm","url":"d:\\TIF+\\maths\\numbertheory\\lcm.cpp","tests":[{"id":1736225003345,"input":"6 12","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\TIF+\\maths\\numbertheory\\lcm.cpp","group":"local","local":true}
