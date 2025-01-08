@@ -26,7 +26,7 @@ int main()
 {
 int l,r;
 cin>>l>>r;
-int x=is_pr(l);
+int x=is_pr(l)?1:0;
 cout<<count(r)-count(l) +x;
 
 return 0;

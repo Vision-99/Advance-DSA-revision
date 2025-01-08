@@ -1,0 +1,1 @@
+{"name":"Local: fact","url":"d:\\TIF+\\maths\\modulo_arthematics\\fact.cpp","tests":[{"id":1736309822688,"input":"21","output":"30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\TIF+\\maths\\modulo_arthematics\\fact.cpp","group":"local","local":true}
