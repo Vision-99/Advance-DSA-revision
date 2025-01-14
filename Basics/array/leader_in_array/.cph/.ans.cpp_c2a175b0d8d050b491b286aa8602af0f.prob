@@ -1,0 +1,1 @@
+{"name":"Local: ans","url":"d:\\TIF+\\Basics\\array\\leader_in_array\\ans.cpp","tests":[{"id":1736676464213,"input":"5\n5 8 6 4 2","output":"8 6 4 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\TIF+\\Basics\\array\\leader_in_array\\ans.cpp","group":"local","local":true}

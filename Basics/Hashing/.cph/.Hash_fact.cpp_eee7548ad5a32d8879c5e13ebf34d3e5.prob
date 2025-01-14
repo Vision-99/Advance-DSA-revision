@@ -1,0 +1,1 @@
+{"name":"Local: Hash_fact","url":"d:\\TIF+\\Basics\\Hashing\\Hash_fact.cpp","tests":[{"id":1736576953382,"input":"5\n2\n4\n6\n7\n8","output":"2\n24\n720\n5040\n40320\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\TIF+\\Basics\\Hashing\\Hash_fact.cpp","group":"local","local":true}
