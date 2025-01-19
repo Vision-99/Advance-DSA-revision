@@ -1,0 +1,1 @@
+{"name":"Local: digit_sum","url":"d:\\TIF+\\Basics\\Recursion\\digit_sum.cpp","tests":[{"id":1737106549235,"input":"51110001","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\TIF+\\Basics\\Recursion\\digit_sum.cpp","group":"local","local":true}

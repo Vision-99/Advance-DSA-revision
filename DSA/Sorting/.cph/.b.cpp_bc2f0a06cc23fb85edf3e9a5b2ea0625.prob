@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"d:\\TIF+\\DSA\\Sorting\\b.cpp","tests":[{"id":1737215249613,"input":"7\n7 8 3 4 4 5 6","output":"11"},{"id":1737215384293,"input":"6\n4 6 3 5 4 5\n","output":"9"},{"id":1737216288115,"input":"7\n8 6 3 4 4 5 6","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\TIF+\\DSA\\Sorting\\b.cpp","group":"local","local":true}
