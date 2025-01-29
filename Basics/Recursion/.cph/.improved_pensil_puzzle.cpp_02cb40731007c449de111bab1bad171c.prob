@@ -1,0 +1,1 @@
+{"name":"Local: improved_pensil_puzzle","url":"d:\\TIF+\\Basics\\Recursion\\improved_pensil_puzzle.cpp","tests":[{"id":1738159762057,"input":"4","output":"20"},{"id":1738159769037,"input":"5","output":"24"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\TIF+\\Basics\\Recursion\\improved_pensil_puzzle.cpp","group":"local","local":true}

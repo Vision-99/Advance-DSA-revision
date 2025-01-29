@@ -1,0 +1,1 @@
+{"name":"Local: ncr","url":"d:\\TIF+\\DSA\\array\\ncr.cpp","tests":[{"id":1738082053370,"input":"10 7","output":"120"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\TIF+\\DSA\\array\\ncr.cpp","group":"local","local":true}
