@@ -1,0 +1,1 @@
+{"name":"Local: alternate_pos_neg","url":"d:\\TIF+\\DSA\\array\\alternate_pos_neg.cpp","tests":[{"id":1738196434697,"input":"","output":"1 -3 2 -4 5 -6 8 -7 9 -10 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\TIF+\\DSA\\array\\alternate_pos_neg.cpp","group":"local","local":true}

@@ -7,7 +7,7 @@ int count(int n) {
         return n * 4; 
     } else { 
         return 16 + count(n - 3); // we used 4, but count effectivly dec by 3
-        // this can be improved bc it's repeated subtraction , wchich is in fact nothing but division.
+        // this can be improved bc it's repeated subtraction , wchich is in fact nothing but division.z
     } 
 } 
 
