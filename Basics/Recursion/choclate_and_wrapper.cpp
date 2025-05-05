@@ -11,6 +11,7 @@ int count_pencil(int n){
 	// maultile of 2 we subtract 1
 	// int x = n/2;
 	// if(n % 2 ==0) x--;	// x=(n-1)/2 ,short cut of that
+	
 	int x= (n-1)/2;
 	return x+n;; 
 } 
